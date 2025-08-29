@@ -545,7 +545,7 @@ const App = () => {
       <aside className="w-64 bg-gray-900 p-6 flex flex-col shadow-lg z-10">
         <div className="flex justify-between items-center mb-6">
           <h1 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-sky-400">
-            Open Trello
+            FreeManager
           </h1>
         </div>
         <div className="mb-6">
